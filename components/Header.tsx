@@ -12,7 +12,7 @@ export default function Header() {
           </div>
           <div className="buttons flex justify-center gap-10 pt-6 lg:gap-5">
             <a href="/Patrick-Francesco-Mascia_CV.pdf" className=" button flex gap-3 px-6 py-3 border-[1px] border-primary bg-primary rounded-md text-background shadow-md transition-all duration-200 hover:shadow-lg hover:brightness-110">Download CV <Image src="/download-icon-white.png" alt="Download icon" width={22} height={22}  className="flex-shrink-0 object-cover"></Image></a>
-            <a href="#Contacts" className=" flex gap-3 px-6 py-3 border-[1px] border-accent bg-secondary rounded-md text-text-inactive shadow-md transition-all duration-200 hover:shadow-lg hover:brightness-110">Contact me</a>
+            <a href="#Contact" className=" flex gap-3 px-6 py-3 border-[1px] border-accent bg-secondary rounded-md text-text-inactive shadow-md transition-all duration-200 hover:shadow-lg hover:brightness-110">Contact me</a>
           </div>
         </div>
         <div className="right relative w-80 h-96 overflow-hidden rounded-3xl lg:order-1">
