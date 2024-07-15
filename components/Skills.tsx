@@ -17,6 +17,7 @@ export default function Skills() {
           <SkillElement image="typescript"/>
           <SkillElement image="php"/>
           <SkillElement image="mysql"/>
+          <SkillElement image="discordjs"/>
         </div>
         <p className='lg:text-center'>I am always learning new aspects, skills and things I don't currently know.</p>
     </section>
