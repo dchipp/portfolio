@@ -4,7 +4,7 @@ import CardElement from './elements/CardElement'
 export default function Projects() {
   return (
     <section id="Projects" className="Projects bg-background-dark flex items-center flex-col py-40 px-10 h-auto lg:py-10 lg:px-5 2xl:gap-10">
-        <h1 className="name text-4xl text-text font-extrabold lg:text-3xl">What have i made?</h1>
+        <h1 className="name text-4xl text-text font-extrabold lg:text-3xl">What have I made?</h1>
         <div className="cards h-full w-full flex flex-wrap justify-center gap-20 pt-32 lg:pt-2 lg:gap-10">
         <CardElement 
           title="VR with domotics" 
