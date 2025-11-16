@@ -13,7 +13,7 @@ export default function Projects() {
           ytLink='DExpecqtsRk'/>
           <CardElement 
           title="Film tracker" 
-          description='This website with a PHP backend was made because i wanted an easy way to annotate and mark films as i watch them.' 
+          description='This website with a PHP backend was made because I wanted an easy way to annotate and mark films as I watch them.' 
           date="06/04/2024"
           imageName='filmtracker'
           link='https://masciacorporation.altervista.org/it/progetti/film/home.php'/>
@@ -45,13 +45,13 @@ export default function Projects() {
           link="https://github.com/dchipp/tictactoe"/>
           <CardElement
           title="Analog clock"
-          description='This is an analog clock i made using JS. It is a sequel to my previous clock, made for someone else.'
+          description='This is an analog clock I made using JS. It is a sequel to my previous clock, made for someone else.'
           date="17/12/2022"
           imageName='analogClock'
           link="https://github.com/dchipp/analogClock"/>
           <CardElement
           title="7 segment clock"
-          description='This is a 7 segment display clock i made using JS. I made it because i wanted a wallpaper for my computer.'
+          description='This is a 7 segment display clock I made using JS. I made it because I wanted a wallpaper for my computer.'
           date="02/12/2022"
           imageName='clock'
           link="https://github.com/dchipp/clock"/>

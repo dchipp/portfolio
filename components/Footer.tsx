@@ -1,6 +1,6 @@
 import React from 'react'
 
-const phone: string = "+39 345 726 4487"
+const phone: string = "+353 083 125 8120"
 const email: string = "patrickmascia42@gmail.com"
 const facebook: string = "https://www.facebook.com/patrick.mascia.42"
 const linkedin: string = "https://www.linkedin.com/in/patrickfmascia/"

@@ -10,10 +10,11 @@ export default function About() {
         <Desk/>
         <div className="text flex flex-col max-w-2xl lg:px-7">
           <div className="title text-4xl text-text font-extrabold lg:text-3xl">Who am I?</div>
-          <div className="desc pt-5">I am a {years} years old developer born in Italy. 
+          <div className="desc pt-5">I am a 20 years old developer born in Italy.
+            I now study Computer Science in the Technological University of Dublin. 
             I have liked computers and programming ever since I was a child. 
             Throughout the years I've studied, both in school and on my own, in order to learn more and more. 
-            Apart from this main interest, I am also into photography, cinematography and philosophy. 
+            Apart from this main interest, I enjoy photography, cinematography and videomaking. 
             I have taken part in projects that allowed me to grow those passions and make something unique out of it.
           </div>
         </div>
